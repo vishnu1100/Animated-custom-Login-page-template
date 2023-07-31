@@ -3,7 +3,7 @@
 
 A stylish and responsive login page template developed using HTML, CSS, and JavaScript. This project is designed to provide an elegant and user-friendly login interface that can be easily integrated into various web applications.
 
-![Login Page Template Preview](./preview.png)
+
 
 ## Table of Contents
 
