@@ -15,10 +15,6 @@ A stylish and responsive login page template developed using HTML, CSS, and Java
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can check out the live demo of the login page template [here](https://vishnu1100.github.io/Animated-custom-Login-page-template/).
-
 ## Features
 
 - Beautiful and modern design
@@ -75,9 +71,6 @@ Next, add the required HTML structure for the login form in your HTML file. You 
 </div>
 ```
 
-## Screenshots
-
-![Screenshot 1](/screenshots/1.png)
 
 ## Customization
 
