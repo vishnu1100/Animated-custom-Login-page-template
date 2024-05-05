@@ -1,3 +1,0 @@
-
-## SCREENSHOT 
-![Hero](screenshot.png)
